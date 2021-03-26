@@ -7,4 +7,4 @@ Bootstrap v5に合せアップデート。
 
 動作イメージ。
 
-![sample](./images/bootstrap-simple-form-001.png)
+![sample](./readme_imgs/bootstrap-simple-form-001.png)
